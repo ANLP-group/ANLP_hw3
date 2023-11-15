@@ -1,0 +1,3 @@
+Amanda Shen: Choice of Project Topic + Re-implementation of COSMIC
+Boyi Qian: Review of SPEC & CARER + Test result/Error Case analysis of COSMIC
+Yiwen Zhang: Project Proposal + Re-implementation of GoEmotions
